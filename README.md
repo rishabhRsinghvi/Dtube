@@ -1,2 +1,0 @@
-# dtube
-decentralised youtube
